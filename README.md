@@ -8,15 +8,17 @@ In this we need to setup the database backend and after that database needs a se
 
 # Deliverables:
 
-![Screenshot (107)](https://github.com/user-attachments/assets/0e8a7d7e-5044-4378-b739-bc78e316c8ca)
+![Screenshot (110)](https://github.com/user-attachments/assets/d65b0fb5-cf77-44b7-81b8-17d683ff968d)
 
-![Screenshot (108)](https://github.com/user-attachments/assets/5b7e5d13-2c77-44cb-a558-83a82e347178)
+![Screenshot (111)](https://github.com/user-attachments/assets/bf66ecd9-e585-4236-b136-ac922a45903c)
 
-![Screenshot (110)](https://github.com/user-attachments/assets/2cb5b14e-32d9-4f67-bd97-b14094fcedf1)
+![Screenshot (112)](https://github.com/user-attachments/assets/a42a810b-9001-4d51-b720-253fe3dc27f7)
 
-![Screenshot (111)](https://github.com/user-attachments/assets/32fcbf4d-2c8b-48cc-aca0-c76e8f5c39db)
+![Screenshot (105)](https://github.com/user-attachments/assets/811928b2-07a3-4534-a73a-b9f0b46a8aeb)
 
-![Screenshot (112)](https://github.com/user-attachments/assets/7d8ce6b6-f339-453c-852e-cefa69a04b44)
+![Screenshot (106)](https://github.com/user-attachments/assets/d495f69b-de0e-45b0-a052-651e34a88c11)
+
+
 
 
 
